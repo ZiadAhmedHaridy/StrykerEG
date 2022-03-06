@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mzzzmmm@yahoo.com
 mzzzmmm976@gmail.com
-
+StrykerEG#2302[discord]
 
 <!---
 StrykerEG/StrykerEG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
