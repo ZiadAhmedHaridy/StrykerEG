@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StrykerEG
-- 👀 I’m interested in coding , developing weps ,Graphic desgining ,
+- 👀 I’m interested in coding , developing webs ,Graphic desgining ,
 - 🌱 I’m currently learning python,c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mzzzmmm@yahoo.com
