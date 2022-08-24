@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @StrykerEG
-- 👀 I’m interested in coding , developing webs ,Graphic desgining ,
-- 🌱 I’m currently learning python,c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mzzzmmm@yahoo.com
-mzzzmmm976@gmail.com
-StrykerEG#2302[discord]
-
-<!---
-StrykerEG/StrykerEG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m ziad ahmed mohamed (GameDeveloper and Computer Science student)
+- 🎓 Uni : Arab Academy for Science, Technology & Maritime Transport
+- 👀 I’m interested in game developing , PixelArt , sport , Jim💪 ,Coding ,Designing, PhotoShop , Illustrator....
+- 🌱 I’m currently learning python, c , c#
+- 💞️ 
+- 📫 How to reach me :
+    mzzzmmm@yahoo.com
+    mzzzmmm976@gmail.com
+    StrykerEG#2302[discord]
+    https://www.instagram.com/ziadahmedeg/
