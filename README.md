@@ -1,10 +1,7 @@
-- 👋 Hi, I’m ziad ahmed mohamed (GameDeveloper and Computer Science student)
-- 🎓 Uni : Arab Academy for Science, Technology & Maritime Transport
-- 👀 I’m interested in game developing , PixelArt , sport , Jim💪 ,Coding ,Designing, PhotoShop , Illustrator....
-- 🌱 I’m currently learning python, c , c#
-- 💞️ 
-- 📫 How to reach me :
-    mzzzmmm@yahoo.com
-    mzzzmmm976@gmail.com
-    StrykerEG#2302[discord]
-    https://www.instagram.com/ziadahmedeg/
+👋 Hi, I’m Ziad Ahmed Mohamed, a software engineer and full stack web developer based in Egypt. I’m passionate about creating innovative and user-friendly web applications using cutting-edge technologies.
+
+👩‍💻 I have experience in working with various front-end and back-end frameworks, such as React, Angular, Node.js, Express, MongoDB, Firebase, etc. I also have knowledge of web design, testing, deployment, and optimization.
+
+🌱 I’m currently learning [Web3 Technologies , ROS , AI].
+
+💬 Ask me anything about Programming , Gym , latest Technologies
